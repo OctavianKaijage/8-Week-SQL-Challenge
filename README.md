@@ -1,5 +1,5 @@
 8 Week SQL Challenge
 
-This repository on Github showcases my work on Solving the 8 Week SQL Challenge and and demonstrates my proficiency in SQL query writing and problem-solving abilities.
+This repository on Github showcases my work on Solving the 8 Week SQL Challenge and demonstrating my SQL query writing and problem-solving abilities.
 
-A special thanks to Data with Danny for creating these insightful and engaging SQL case studies!
+I want to give a special shout-out to Danny for creating these interesting and compelling SQL case studies!
